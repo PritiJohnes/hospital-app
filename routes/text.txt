@@ -1,12 +1,12 @@
 {
-    "id": "PP978H102",
-  "name": "Prabha Restaurent",
-  "contactno": 9876543210,
-  "email": "John01gmail.com",
-  "ownerName": "John Doe",
-  "onBoardingDate": "20 July 2023",
-  "address": "John Doe,B123, Freedom fighter Colony ",
-  "subscription" : "monthly",
+    "id": "PP978H103",
+  "name": "Krishna Restaurent",
+  "contactno": 9876543280,
+  "email": "dan02gmail.com",
+  "ownerName": "Dan Molli",
+  "onBoardingDate": "22 July 2023",
+  "address": "Dan Molli,D123, MG Colony ",
+  "subscription" : "weekly",
   "items": [
     {
       "name": "Rice",
@@ -37,6 +37,18 @@
       "company": "mother Dairy",
       "quantity": 233,
       "price":45633.00
+    },
+    {
+      "name": "Yoghurt",
+      "company": "mother Dairy",
+      "quantity": 343,
+      "price":87633.00
+    },
+    {
+      "name": "Curd",
+      "company": "mother Dairy",
+      "quantity": 613,
+      "price":56313.00
     }
   ]
   
