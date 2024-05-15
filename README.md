@@ -1,1 +1,1 @@
-# restaurant-mern-app
+# Hospital-app
