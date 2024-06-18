@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mercy-hospital-app/static/css/main.4c384285.css",
-    "main.js": "/mercy-hospital-app/static/js/main.6a4848a8.js",
+    "main.js": "/mercy-hospital-app/static/js/main.d919c9e2.js",
     "static/media/Dental.jpg": "/mercy-hospital-app/static/media/Dental.d58d0bd9b75b81cfdbb0.jpg",
     "static/media/Dental flex.jpg": "/mercy-hospital-app/static/media/Dental flex.c1172b654f1879ff27f9.jpg",
     "static/media/Xray1.jpg": "/mercy-hospital-app/static/media/Xray1.2dc62c25980cd9c449eb.jpg",
@@ -43,10 +43,10 @@
     "static/media/criticalcare.webp": "/mercy-hospital-app/static/media/criticalcare.46490c367b4599e49dde.webp",
     "index.html": "/mercy-hospital-app/index.html",
     "main.4c384285.css.map": "/mercy-hospital-app/static/css/main.4c384285.css.map",
-    "main.6a4848a8.js.map": "/mercy-hospital-app/static/js/main.6a4848a8.js.map"
+    "main.d919c9e2.js.map": "/mercy-hospital-app/static/js/main.d919c9e2.js.map"
   },
   "entrypoints": [
     "static/css/main.4c384285.css",
-    "static/js/main.6a4848a8.js"
+    "static/js/main.d919c9e2.js"
   ]
 }
